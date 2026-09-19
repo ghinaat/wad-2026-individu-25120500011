@@ -70,12 +70,6 @@ git push -u origin feature/endpoint-individu
 # review sendiri, lalu merge sendiri
 ```
 
-Setelah merge, jalankan pemeriksa dosen:
-
-```bash
-python verify.py --individu
-```
-
 ## Bukti yang perlu di-screenshot untuk submit
 
 1. `/docs` — POST sukses (`201`)
